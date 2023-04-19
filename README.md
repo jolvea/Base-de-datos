@@ -5,29 +5,24 @@ CONTENIDOS
 El procesamiento de la información.
 La información y su seguridad modelo relacional.
 
-•	Definiciones de Base de Datos
+•	Definiciones de Base de Datos •	Tipos de datos •	Ciclo de vida de una base de datos.
 
-•	Tipos de datos
-
-•	Ciclo de vida de una base de datos.
 Principales SGBD.
-•	Las declaraciones DCL, DDL y DML.
-•	Terminología.
-El lenguaje de consulta SQL
-•	Orígenes.
-•	Fundamentos
-•	Principales sentencias.
+
+•	Las declaraciones DCL, DDL y DML. •	Terminología. El lenguaje de consulta SQL •	Orígenes. •	Fundamentos •	Principales sentencias.
+
 Software MySQL y MariaDB
+
 •	Versiones, ediciones, requisitos, características e introducción al Transact SQL.
+
 Creación de Tablas I
-•	Tipos de datos del sistema
-•	Creación de tipos de datos
-•	Modificación de tablas
-•	Generación automática de valores de columnas.
+
+•	Tipos de datos del sistema •	Creación de tipos de datos •	Modificación de tablas •	Generación automática de valores de columnas.
+
 Creación de Tablas II
-•	Integridad de datas
-•	Restricciones.
-•	Integridad referencial en cascada
+
+•	Integridad de datas •	Restricciones. •	Integridad referencial en cascada
+
 Operación de mantenimiento de datos
 •	Modificación de datos
 •	Inserción de filas
@@ -57,23 +52,18 @@ Las Vistas
 •	Ventajas
 •	Creación de vistas
 •	Mantenimiento de datos mediante vistas
+
 Transacciones
-•	Concepto.
-•	Propiedades
-•	Fundamentos.
-•	Estructura.
-•	Tipos.
+
+•	Concepto. •	Propiedades •	Fundamentos. •	Estructura. •	Tipos.
+
 Procedimientos almacenados
-•	Definición
-•	Ventajas de su uso
-•	Creación.
-•	Modificación
-•	Eliminación.
-•	Ejecución de los procedimientos almacenados.
+•	Definición •	Ventajas de su uso •	Creación. •	Modificación •	Eliminación. •	Ejecución de los procedimientos almacenados.
+
 Triggers (desencadenantes)
-•	Introducción
-•	Diseño
-•	Creación Tablas
-•	Insert y deleted.
+
+•	Introducción •	Diseño •	Creación Tablas •	Insert y deleted.
+
 Reporting Services
+
 •	Creación, configuración, definición de la consulta para el reporte y publicación.
