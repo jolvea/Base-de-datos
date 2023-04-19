@@ -1,6 +1,8 @@
 # Base-de-datos
 Unidad didactica de Base de datos
+
 CONTENIDOS
+
 El procesamiento de la información.
 La información y su seguridad modelo relacional.
 •	Definiciones de Base de Datos
