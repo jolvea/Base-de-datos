@@ -24,34 +24,32 @@ Creación de Tablas II
 •	Integridad de datas •	Restricciones. •	Integridad referencial en cascada
 
 Operación de mantenimiento de datos
-•	Modificación de datos
-•	Inserción de filas
-•	Eliminación de filas.
-•	Actualización de datos
-•	Propiedad ldentity
+
+•	Modificación de datos •	Inserción de filas •	Eliminación de filas. •	Actualización de datos •	Propiedad ldentity
+
 Consultas básicas I
-•	Consultas basadas en una sola columna
-•	La definición de columnas en la consulta.
+
+•	Consultas basadas en una sola columna •	La definición de columnas en la consulta.
+
 Consultas básicas II
+
 •	Diseño de filtros utilizando la cláusula where y los aperadores SQL
+
 Funciones Transact SQL
-•	Configuración de fecha y hora
-•	Numéricas.
-•	Metadatos de seguridad de cadena de agregación.
+
+•	Configuración de fecha y hora •	Numéricas. •	Metadatos de seguridad de cadena de agregación.
+
 Consultas Multitablas
-•	lner Join
-•	Outer Join
-•	Cross Join
-•	Clausulas Exists
-•	No Exists.
+
+•	lner Join •	Outer Join •	Cross Join •	Clausulas Exists •	No Exists.
+
 Las Índices
-•	Definición
-•	Creación de índices
+
+•	Definición •	Creación de índices
+
 Las Vistas
-•	Introducción
-•	Ventajas
-•	Creación de vistas
-•	Mantenimiento de datos mediante vistas
+
+•	Introducción •	Ventajas •	Creación de vistas •	Mantenimiento de datos mediante vistas
 
 Transacciones
 
