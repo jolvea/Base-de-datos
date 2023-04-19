@@ -2,11 +2,13 @@
 Unidad didactica de Base de datos
 
 CONTENIDOS
-
 El procesamiento de la información.
 La información y su seguridad modelo relacional.
+
 •	Definiciones de Base de Datos
+
 •	Tipos de datos
+
 •	Ciclo de vida de una base de datos.
 Principales SGBD.
 •	Las declaraciones DCL, DDL y DML.
