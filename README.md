@@ -56,6 +56,7 @@ Transacciones
 •	Concepto. •	Propiedades •	Fundamentos. •	Estructura. •	Tipos.
 
 Procedimientos almacenados
+
 •	Definición •	Ventajas de su uso •	Creación. •	Modificación •	Eliminación. •	Ejecución de los procedimientos almacenados.
 
 Triggers (desencadenantes)
